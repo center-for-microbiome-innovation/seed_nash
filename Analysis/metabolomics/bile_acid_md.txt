@@ -1,0 +1,49 @@
+id	Compound_Name	type_of_bile_acid	bile_acid
+375.2889;5.8867	.beta.-Hyodeoxycholic acid	secondary	Hyodeoxycholic acid
+355.2626;5.1121	.beta.-Muricholic acid	primary	Muricholic acid
+355.2626;5.1811	.beta.-Muricholic acid	primary	Muricholic acid
+391.2844;5.6579	.beta.-Muricholic acid	primary	Muricholic acid
+355.262;5.0082	.beta.-Muricholic acid	primary	Muricholic acid
+391.2843;5.2898	.beta.-Muricholic acid	primary	Muricholic acid
+391.2842;5.0438	.gamma.-Muricholic acid	primary	Muricholic acid
+375.2888;6.2048	chenodeoxycholic acid	primary	Cholic acid
+391.2843;5.1258	Cholic acid	primary	Cholic acid
+391.2844;5.2386	Cholic acid	primary	Cholic acid
+373.2737;5.9395	Cholic acid	primary	Cholic acid
+373.274;5.4852	Cholic acid	primary	Cholic acid
+373.2739;5.3929	Cholic acid	primary	Cholic acid
+373.2738;5.7368	Cholic acid	primary	Cholic acid
+391.2843;5.5395	Cholic acid	primary	Cholic acid
+431.2767;5.5133	Cholic acid	primary	Cholic acid
+817.5826;5.1086	Cholic acid	primary	Cholic acid
+426.3212;5.5166	Cholic acid	primary	Cholic acid
+839.5645;5.46	Cholic acid	primary	Cholic acid
+839.5647;5.2358	Cholic acid	primary	Cholic acid
+839.5643;5.1172	Cholic acid	primary	Cholic acid
+355.2627;5.4257	Cholic acid	primary	Cholic acid
+373.2734;4.8118	Cholic acid	primary	Cholic acid
+426.3206;5.3256	Cholic acid	primary	Cholic acid
+355.2631;5.8731	Cholic acid	primary	Cholic acid
+431.2767;5.7978	Cholic acid	primary	Cholic acid
+817.5819;5.7364	Cholic acid	primary	Cholic acid
+426.3211;5.7298	Cholic acid	primary	Cholic acid
+839.5633;5.7342	Cholic acid	primary	Cholic acid
+373.2739;5.0885	hyocholic acid	primary	Muricholic acid
+373.274;5.1403	hyocholic acid	primary	Muricholic acid
+373.2671;5.034	hyocholic acid	primary	Muricholic acid
+373.2679;5.3482	hyocholic acid	primary	Muricholic acid
+373.2738;4.9956	hyocholic acid	primary	Muricholic acid
+373.2737;4.971	hyocholic acid	primary	Muricholic acid
+355.2632;5.969	Spectral Match to Cholic acid from NIST14	primary	Cholic acid
+355.263;5.5014	Spectral Match to Cholic acid from NIST14	primary	Cholic acid
+817.5823;5.2482	Spectral Match to Cholic acid from NIST14	primary	Cholic acid
+817.5822;5.4762	Spectral Match to Cholic acid from NIST14	primary	Cholic acid
+785.5924;6.3387	Spectral Match to Deoxycholic acid from NIST14	secondary	Deoxycholic acid
+516.2996;4.8004	Spectral Match to Taurocholic acid from NIST14	primary conjugated	Taurocholic acid
+538.2801;4.3897	Spectral Match to Taurocholic acid from NIST14	primary conjugated	Taurocholic acid
+375.2892;6.297	Spectral Match to Ursodeoxycholic acid from NIST14	secondary	Ursodeoxycholic acid
+375.289;6.4558	Spectral Match to Ursodeoxycholic acid from NIST14	secondary	Ursodeoxycholic acid
+498.2886;4.6421	taurocholic acid	primary conjugated	Taurocholic acid
+516.2986;4.4082	taurohyocholic acid	primary conjugated	taurohyocholic acid
+480.2775;4.4237	taurohyocholic acid	primary conjugated	taurohyocholic acid
+375.2895;5.7538	Ursodeoxycholic acid	secondary	Ursodeoxycholic acid
