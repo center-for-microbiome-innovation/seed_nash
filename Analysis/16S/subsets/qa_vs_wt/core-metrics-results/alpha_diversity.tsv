@@ -1,0 +1,122 @@
+id	cage_id	collection_timestamp	description	experimental_group	host_age	sex	strain_genotype	strain_vendor	treatment	faith_pd	shannon
+10781.Cage1.female.WT1	Cage1	2/10/16 9:00	WT	WT-none	12	female	WT	Jackson	WT-none	12.09088901	0.383765834
+10781.Cage1.female.WT2	Cage1	2/10/16 9:00	WT	WT-none	12	female	WT	Jackson	WT-none	12.56498735	0.419602091
+10781.Cage1.female.WT3	Cage1	2/10/16 9:00	WT	WT-none	12	female	WT	Jackson	WT-none	14.98305515	0.412545673
+10781.Cage1.female.WT4	Cage1	2/10/16 9:00	WT	WT-none	12	female	WT	Jackson	WT-none	14.48810229	0.424999312
+10781.Cage1.female.WT5	Cage1	2/10/16 9:00	WT	WT-none	12	female	WT	Jackson	WT-none	11.75667836	0.393798387
+10781.Cage10.male.Qa1	Cage10	2/10/16 10:00	Qa-1-/-	Qa-1-/- none	12	male	Qa-1-/-	In-house	Qa-1-/- none	15.31394529	0.530337109
+10781.Cage10.male.Qa2	Cage10	2/10/16 10:00	Qa-1-/-	Qa-1-/- none	12	male	Qa-1-/-	In-house	Qa-1-/- none	16.43992409	0.593209447
+10781.Cage10.male.Qa3	Cage10	2/10/16 10:00	Qa-1-/-	Qa-1-/- none	12	male	Qa-1-/-	In-house	Qa-1-/- none	15.81426952	0.616473308
+10781.Cage10.male.Qa4	Cage10	2/10/16 10:00	Qa-1-/-	Qa-1-/- none	12	male	Qa-1-/-	In-house	Qa-1-/- none	11.16584809	0.581572167
+10781.Cage11.male.Qa5	Cage11	2/10/16 10:00	Qa-1-/-	Qa-1-/- none	6	male	Qa-1-/-	In-house	Qa-1-/- none	19.21350703	0.670116285
+10781.Cage11.male.Qa6	Cage11	2/10/16 10:00	Qa-1-/-	Qa-1-/- none	6	male	Qa-1-/-	In-house	Qa-1-/- none	14.93343578	0.590859889
+10781.Cage11.male.Qa7	Cage11	2/10/16 10:00	Qa-1-/-	Qa-1-/- none	6	male	Qa-1-/-	In-house	Qa-1-/- none	13.78191845	0.567095043
+10781.Cage11.male.Qa8	Cage11	2/10/16 10:00	Qa-1-/-	Qa-1-/- none	6	male	Qa-1-/-	In-house	Qa-1-/- none	18.0454558	0.665170045
+10781.Cage14.male.WT16	Cage14	2/12/16 9:00	WT	WT-none	17	male	WT	Jackson	WT-none	13.67980191	0.440088516
+10781.Cage14.male.WT17	Cage14	2/12/16 9:00	WT	WT-none	17	male	WT	Jackson	WT-none	16.77584001	0.516770351
+10781.Cage14.male.WT18	Cage14	2/12/16 9:00	WT	WT-none	17	male	WT	Jackson	WT-none	15.74387214	0.583843479
+10781.Cage14.male.WT19	Cage14	2/12/16 9:00	WT	WT-none	17	male	WT	Jackson	WT-none	14.61899319	0.508720403
+10781.Cage14.male.WT20	Cage14	2/12/16 9:00	WT	WT-none	17	male	WT	Jackson	WT-none	14.89901443	0.527591563
+10781.Cage15.male.WT21	Cage15	2/12/16 9:00	WT	WT-none	17	male	WT	Jackson	WT-none	16.58767734	0.553753018
+10781.Cage15.male.WT22	Cage15	2/12/16 9:00	WT	WT-none	17	male	WT	Jackson	WT-none	15.32037004	0.508555422
+10781.Cage15.male.WT23	Cage15	2/12/16 9:00	WT	WT-none	17	male	WT	Jackson	WT-none	14.63614211	0.540350326
+10781.Cage15.male.WT25	Cage15	2/12/16 9:00	WT	WT-none	17	male	WT	Jackson	WT-none	15.91606958	0.596381821
+10781.Cage16.male.WT26	Cage16	2/12/16 9:00	WT	WT-none	17	male	WT	Jackson	WT-none	12.46281724	0.51530425
+10781.Cage16.male.WT27	Cage16	2/12/16 9:00	WT	WT-none	17	male	WT	Jackson	WT-none	15.21864176	0.60426515
+10781.Cage16.male.WT28	Cage16	2/12/16 9:00	WT	WT-none	17	male	WT	Jackson	WT-none	14.92613603	0.614893546
+10781.Cage16.male.WT29	Cage16	2/12/16 9:00	WT	WT-none	17	male	WT	Jackson	WT-none	17.20756538	0.676725991
+10781.Cage16.male.WT30	Cage16	2/12/16 9:00	WT	WT-none	17	male	WT	Jackson	WT-none	15.39422683	0.573898775
+10781.Cage17.female.WT12	Cage17	2/12/16 9:00	WT	WT-none	22	female	WT	Jackson	WT-none	14.99922609	0.452417509
+10781.Cage17.female.WT13	Cage17	2/12/16 9:00	WT	WT-none	22	female	WT	Jackson	WT-none	15.59371049	0.547455639
+10781.Cage18.male.WT31	Cage18	2/12/16 9:00	WT	WT-none	19	male	WT	Jackson	WT-none	14.40286485	0.629761639
+10781.Cage2.male.WT1	Cage2	2/10/16 9:00	WT	WT-none	12	male	WT	Jackson	WT-none	15.1821727	0.497030838
+10781.Cage2.male.WT2	Cage2	2/10/16 9:00	WT	WT-none	12	male	WT	Jackson	WT-none	16.44776947	0.575151969
+10781.Cage2.male.WT3	Cage2	2/10/16 9:00	WT	WT-none	12	male	WT	Jackson	WT-none	13.75608529	0.452366096
+10781.Cage2.male.WT4	Cage2	2/10/16 9:00	WT	WT-none	12	male	WT	Jackson	WT-none	10.64560356	0.445512483
+10781.Cage2.male.WT5	Cage2	2/10/16 9:00	WT	WT-none	12	male	WT	Jackson	WT-none	17.03837007	0.528091055
+10781.Cage20.male.Qa10	Cage20	2/12/16 10:00	Qa-1-/-	Qa-1-/- none	20	male	Qa-1-/-	In-house	Qa-1-/- none	17.4930809	0.645807837
+10781.Cage20.male.Qa11	Cage20	2/12/16 10:00	Qa-1-/-	Qa-1-/- none	20	male	Qa-1-/-	In-house	Qa-1-/- none	14.16998321	0.571366676
+10781.Cage20.male.Qa12	Cage20	2/12/16 10:00	Qa-1-/-	Qa-1-/- none	20	male	Qa-1-/-	In-house	Qa-1-/- none	13.68665921	0.620814098
+10781.Cage20.male.Qa9	Cage20	2/12/16 10:00	Qa-1-/-	Qa-1-/- none	20	male	Qa-1-/-	In-house	Qa-1-/- none	16.37469589	0.612318182
+10781.Cage21.male.Qa13	Cage21	2/12/16 10:00	Qa-1-/-	Qa-1-/- none	24	male	Qa-1-/-	In-house	Qa-1-/- none	17.08274184	0.647356564
+10781.Cage21.male.Qa14	Cage21	2/12/16 10:00	Qa-1-/-	Qa-1-/- none	24	male	Qa-1-/-	In-house	Qa-1-/- none	18.2698323	0.708665429
+10781.Cage22.female.Qa5	Cage22	2/12/16 10:00	Qa-1-/-	Qa-1-/- none	20	female	Qa-1-/-	In-house	Qa-1-/- none	12.62446534	0.613188748
+10781.Cage22.female.Qa6	Cage22	2/12/16 10:00	Qa-1-/-	Qa-1-/- none	20	female	Qa-1-/-	In-house	Qa-1-/- none	15.86034613	0.612582533
+10781.Cage22.female.Qa7	Cage22	2/12/16 10:00	Qa-1-/-	Qa-1-/- none	20	female	Qa-1-/-	In-house	Qa-1-/- none	14.17633181	0.60978355
+10781.Cage22.female.Qa8	Cage22	2/12/16 10:00	Qa-1-/-	Qa-1-/- none	20	female	Qa-1-/-	In-house	Qa-1-/- none	8.567069219	0.630177769
+10781.Cage22.female.Qa9	Cage22	2/12/16 10:00	Qa-1-/-	Qa-1-/- none	20	female	Qa-1-/-	In-house	Qa-1-/- none	9.287045966	0.587236972
+10781.Cage23.female.Qa10	Cage23	2/12/16 10:00	Qa-1-/-	Qa-1-/- none	18	female	Qa-1-/-	In-house	Qa-1-/- none	18.95363685	0.74307227
+10781.Cage24.male.Qa15	Cage24	2/12/16 10:00	Qa-1-/-	Qa-1-/- none	18	male	Qa-1-/-	In-house	Qa-1-/- none	16.56177727	0.596239965
+10781.Cage24.male.Qa16	Cage24	2/12/16 10:00	Qa-1-/-	Qa-1-/- none	18	male	Qa-1-/-	In-house	Qa-1-/- none	16.30146813	0.565882897
+10781.Cage24.male.Qa17	Cage24	2/12/16 10:00	Qa-1-/-	Qa-1-/- none	18	male	Qa-1-/-	In-house	Qa-1-/- none	18.59634507	0.663581991
+10781.Cage3.male.WT10	Cage3	2/10/16 9:00	WT	WT-none	12	male	WT	Jackson	WT-none	12.07836922	0.429590147
+10781.Cage3.male.WT6	Cage3	2/10/16 9:00	WT	WT-none	12	male	WT	Jackson	WT-none	15.78666222	0.550796603
+10781.Cage3.male.WT7	Cage3	2/10/16 9:00	WT	WT-none	12	male	WT	Jackson	WT-none	13.18311277	0.4486813
+10781.Cage3.male.WT8	Cage3	2/10/16 9:00	WT	WT-none	12	male	WT	Jackson	WT-none	14.88192742	0.498885312
+10781.Cage3.male.WT9	Cage3	2/10/16 9:00	WT	WT-none	12	male	WT	Jackson	WT-none	14.96115677	0.539482366
+10781.Cage4.female.WT10	Cage4	2/10/16 9:00	WT	WT-none	12	female	WT	Jackson	WT-none	12.87757042	0.417277067
+10781.Cage4.female.WT6	Cage4	2/10/16 9:00	WT	WT-none	12	female	WT	Jackson	WT-none	11.33378383	0.408405552
+10781.Cage4.female.WT7	Cage4	2/10/16 9:00	WT	WT-none	12	female	WT	Jackson	WT-none	12.5774367	0.463052097
+10781.Cage4.female.WT8	Cage4	2/10/16 9:00	WT	WT-none	12	female	WT	Jackson	WT-none	15.58566556	0.428862195
+10781.Cage4.female.WT9	Cage4	2/10/16 9:00	WT	WT-none	12	female	WT	Jackson	WT-none	13.70505111	0.399909991
+10781.Cage43.male.Qa18	Cage43	10/11/16 9:30	Qa-1-/-	Qa-1-/- none	56	male	Qa-1-/-	In-house	Qa-1-/- none	19.30173638	0.636694158
+10781.Cage43.male.Qa19	Cage43	10/11/16 9:30	Qa-1-/-	Qa-1-/- none	56	male	Qa-1-/-	In-house	Qa-1-/- none	13.45112698	0.573120779
+10781.Cage44.female.Qa11	Cage44	10/11/16 9:30	Qa-1-/-	Qa-1-/- none	56	female	Qa-1-/-	In-house	Qa-1-/- none	14.43780769	0.578789729
+10781.Cage44.female.Qa12	Cage44	10/11/16 9:30	Qa-1-/-	Qa-1-/- none	56	female	Qa-1-/-	In-house	Qa-1-/- none	13.91620757	0.614945374
+10781.Cage44.female.Qa13	Cage44	10/11/16 9:30	Qa-1-/-	Qa-1-/- none	56	female	Qa-1-/-	In-house	Qa-1-/- none	10.7323597	0.635111438
+10781.Cage45.male.Qa20	Cage45	10/11/16 9:30	Qa-1-/-	Qa-1-/- none	54	male	Qa-1-/-	In-house	Qa-1-/- none	11.62441469	0.602338712
+10781.Cage45.male.Qa21	Cage45	10/11/16 9:30	Qa-1-/-	Qa-1-/- none	54	male	Qa-1-/-	In-house	Qa-1-/- none	17.27817715	0.62137792
+10781.Cage45.male.Qa22	Cage45	10/11/16 9:30	Qa-1-/-	Qa-1-/- none	54	male	Qa-1-/-	In-house	Qa-1-/- none	19.3760873	0.643061083
+10781.Cage46.female.Qa14	Cage46	10/11/16 9:30	Qa-1-/-	Qa-1-/- none	54	female	Qa-1-/-	In-house	Qa-1-/- none	15.57238987	0.559295655
+10781.Cage47.male.Qa23	Cage47	10/11/16 9:30	Qa-1-/-	Qa-1-/- none	42	male	Qa-1-/-	In-house	Qa-1-/- none	20.38915171	0.654580453
+10781.Cage47.male.Qa24	Cage47	10/11/16 9:30	Qa-1-/-	Qa-1-/- none	42	male	Qa-1-/-	In-house	Qa-1-/- none	14.36512749	0.602726732
+10781.Cage47.male.Qa25	Cage47	10/11/16 9:30	Qa-1-/-	Qa-1-/- none	42	male	Qa-1-/-	In-house	Qa-1-/- none	12.04087207	0.647557775
+10781.Cage47.male.Qa26	Cage47	10/11/16 9:30	Qa-1-/-	Qa-1-/- none	42	male	Qa-1-/-	In-house	Qa-1-/- none	11.66053201	0.591499568
+10781.Cage48.male.Qa27	Cage48	10/11/16 9:30	Qa-1-/-	Qa-1-/- none	44	male	Qa-1-/-	In-house	Qa-1-/- none	14.57110396	0.629730485
+10781.Cage48.male.Qa28	Cage48	10/11/16 9:30	Qa-1-/-	Qa-1-/- none	44	male	Qa-1-/-	In-house	Qa-1-/- none	15.59634248	0.594465797
+10781.Cage48.male.Qa29	Cage48	10/11/16 9:30	Qa-1-/-	Qa-1-/- none	44	male	Qa-1-/-	In-house	Qa-1-/- none	11.84555084	0.546445919
+10781.Cage48.male.Qa30	Cage48	10/11/16 9:30	Qa-1-/-	Qa-1-/- none	44	male	Qa-1-/-	In-house	Qa-1-/- none	14.79420869	0.570886166
+10781.Cage49.female.Qa15	Cage49	10/11/16 9:30	Qa-1-/-	Qa-1-/- none	44	female	Qa-1-/-	In-house	Qa-1-/- none	16.19852671	0.64491284
+10781.Cage49.female.Qa16	Cage49	10/11/16 9:30	Qa-1-/-	Qa-1-/- none	44	female	Qa-1-/-	In-house	Qa-1-/- none	15.43633727	0.592875443
+10781.Cage49.female.Qa17	Cage49	10/11/16 9:30	Qa-1-/-	Qa-1-/- none	44	female	Qa-1-/-	In-house	Qa-1-/- none	16.8952384	0.659411224
+10781.Cage49.female.Qa18	Cage49	10/11/16 9:30	Qa-1-/-	Qa-1-/- none	44	female	Qa-1-/-	In-house	Qa-1-/- none	12.81461671	0.582496277
+10781.Cage5.female.WT11	Cage5	2/10/16 9:00	WT	WT-none	13	female	WT	Jackson	WT-none	10.03589149	0.367718585
+10781.Cage50.female.Qa19	Cage50	10/11/16 10:00	Qa-1-/-	Qa-1-/- none	32	female	Qa-1-/-	In-house	Qa-1-/- none	11.63992992	0.624663926
+10781.Cage50.female.Qa20	Cage50	10/11/16 10:00	Qa-1-/-	Qa-1-/- none	32	female	Qa-1-/-	In-house	Qa-1-/- none	18.92725698	0.674969852
+10781.Cage50.female.Qa21	Cage50	10/11/16 10:00	Qa-1-/-	Qa-1-/- none	32	female	Qa-1-/-	In-house	Qa-1-/- none	16.6323926	0.590261198
+10781.Cage50.female.Qa22	Cage50	10/11/16 10:00	Qa-1-/-	Qa-1-/- none	32	female	Qa-1-/-	In-house	Qa-1-/- none	10.84824415	0.625631151
+10781.Cage50.female.Qa23	Cage50	10/11/16 10:00	Qa-1-/-	Qa-1-/- none	32	female	Qa-1-/-	In-house	Qa-1-/- none	11.47417928	0.59247989
+10781.Cage51.female.Qa24	Cage51	10/11/16 10:00	Qa-1-/-	Qa-1-/- none	27	female	Qa-1-/-	In-house	Qa-1-/- none	8.268552707	0.614479862
+10781.Cage51.female.Qa25	Cage51	10/11/16 10:00	Qa-1-/-	Qa-1-/- none	27	female	Qa-1-/-	In-house	Qa-1-/- none	9.000135566	0.580045796
+10781.Cage51.female.Qa26	Cage51	10/11/16 10:00	Qa-1-/-	Qa-1-/- none	27	female	Qa-1-/-	In-house	Qa-1-/- none	11.73423583	0.629770434
+10781.Cage52.male.Qa32	Cage52	10/11/16 10:00	Qa-1-/-	Qa-1-/- none	24	male	Qa-1-/-	In-house	Qa-1-/- none	11.15403681	0.611205353
+10781.Cage52.male.Qa33	Cage53	10/11/16 10:00	Qa-1-/-	Qa-1-/- none	24	male	Qa-1-/-	In-house	Qa-1-/- none	16.18614394	0.566596917
+10781.Cage53.female.Qa27	Cage52	10/11/16 10:00	Qa-1-/-	Qa-1-/- none	24	female	Qa-1-/-	In-house	Qa-1-/- none	10.65394384	0.578318007
+10781.Cage54.female.Qa28	Cage54	10/11/16 10:00	Qa-1-/-	Qa-1-/- none	16	female	Qa-1-/-	In-house	Qa-1-/- none	10.87138212	0.551786823
+10781.Cage55.male.Qa33	Cage55	10/11/16 10:00	Qa-1-/-	Qa-1-/- none	16	male	Qa-1-/-	In-house	Qa-1-/- none	18.03874781	0.695635452
+10781.Cage56.female.Qa29	Cage56	10/11/16 10:00	Qa-1-/-	Qa-1-/- none	8	female	Qa-1-/-	In-house	Qa-1-/- none	11.68239427	0.592115582
+10781.Cage56.female.Qa31	Cage56	10/11/16 10:00	Qa-1-/-	Qa-1-/- none	8	female	Qa-1-/-	In-house	Qa-1-/- none	10.4020975	0.584385904
+10781.Cage57.female.WT14	Cage57	10/11/16 10:30	WT	WT-none	8	female	WT	Jackson	WT-none	15.73131701	0.441979193
+10781.Cage57.female.WT15	Cage57	10/12/16 10:30	WT	WT-none	8	female	WT	Jackson	WT-none	12.68459221	0.446692551
+10781.Cage57.female.WT16	Cage57	10/13/16 10:30	WT	WT-none	8	female	WT	Jackson	WT-none	8.667240741	0.332165486
+10781.Cage57.female.WT17	Cage57	10/14/16 10:30	WT	WT-none	8	female	WT	Jackson	WT-none	14.05040737	0.457699716
+10781.Cage58.female.WT18	Cage58	10/15/16 10:30	WT	WT-none	12	female	WT	Jackson	WT-none	10.64771554	0.256580144
+10781.Cage58.female.WT19	Cage58	10/16/16 10:30	WT	WT-none	12	female	WT	Jackson	WT-none	10.95536334	0.320246859
+10781.Cage58.female.WT20	Cage58	10/17/16 10:30	WT	WT-none	12	female	WT	Jackson	WT-none	11.63801293	0.25823601
+10781.Cage58.female.WT21	Cage58	10/18/16 10:30	WT	WT-none	12	female	WT	Jackson	WT-none	7.560949004	0.291918179
+10781.Cage59.female.WT22	Cage59	10/19/16 10:30	WT	WT-none	12	female	WT	Jackson	WT-none	10.7786177	0.327482277
+10781.Cage59.female.WT23	Cage59	10/20/16 10:30	WT	WT-none	12	female	WT	Jackson	WT-none	13.97074374	0.44125496
+10781.Cage59.female.WT24	Cage59	10/21/16 10:30	WT	WT-none	12	female	WT	Jackson	WT-none	12.24310728	0.335419842
+10781.Cage6.male.WT11	Cage6	2/10/16 9:00	WT	WT-none	12	male	WT	Jackson	WT-none	10.32374499	0.422810369
+10781.Cage6.male.WT12	Cage6	2/10/16 9:00	WT	WT-none	12	male	WT	Jackson	WT-none	12.73047225	0.47607125
+10781.Cage6.male.WT13	Cage6	2/10/16 9:00	WT	WT-none	12	male	WT	Jackson	WT-none	13.90355366	0.481399276
+10781.Cage6.male.WT14	Cage6	2/10/16 9:00	WT	WT-none	12	male	WT	Jackson	WT-none	16.07486829	0.582273762
+10781.Cage6.male.WT15	Cage6	2/10/16 9:00	WT	WT-none	12	male	WT	Jackson	WT-none	15.30694535	0.463307205
+10781.Cage60.male.WT32	Cage60	10/23/16 10:30	WT	WT-none	10	male	WT	Jackson	WT-none	11.85264353	0.464835919
+10781.Cage60.male.WT33	Cage60	10/24/16 10:30	WT	WT-none	10	male	WT	Jackson	WT-none	12.50754894	0.510246599
+10781.Cage61.male.WT34	Cage61	10/25/16 10:30	WT	WT-none	18	male	WT	Jackson	WT-none	12.16686897	0.380844272
+10781.Cage61.male.WT35	Cage61	10/26/16 10:30	WT	WT-none	18	male	WT	Jackson	WT-none	14.51147482	0.549612049
+10781.Cage9.female.Qa1	Cage9	2/10/16 10:00	Qa-1-/-	Qa-1-/- none	12	female	Qa-1-/-	In-house	Qa-1-/- none	13.93176545	0.558662028
+10781.Cage9.female.Qa2	Cage9	2/10/16 10:00	Qa-1-/-	Qa-1-/- none	12	female	Qa-1-/-	In-house	Qa-1-/- none	13.57637206	0.586978969
+10781.Cage9.female.Qa3	Cage9	2/10/16 10:00	Qa-1-/-	Qa-1-/- none	12	female	Qa-1-/-	In-house	Qa-1-/- none	16.77497145	0.66293862
+10781.Cage9.female.Qa4	Cage9	2/10/16 10:00	Qa-1-/-	Qa-1-/- none	12	female	Qa-1-/-	In-house	Qa-1-/- none	16.60243718	0.608813345

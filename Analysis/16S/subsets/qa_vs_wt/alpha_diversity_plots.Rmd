@@ -1,0 +1,58 @@
+---
+title: "alpha_diversity"
+author: "Stephen Wandro"
+date: "7/8/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r message=FALSE, warning=FALSE}
+library(tidyverse)
+library(ggpubr)
+```
+
+### Import the data and metadata
+
+```{r}
+alpha <- read.delim("core-metrics-results/alpha_diversity.tsv",header = T, sep = '\t')
+```
+
+# Plot
+
+## Shannon diversity plot
+
+```{r fig.width=3,fig.height=3}
+ggplot(data = alpha) +
+  geom_boxplot( aes( x= description, y= shannon), width = .7, size=1.2) +
+  stat_compare_means(aes( x= description, y= shannon), label.x=1.5 ) +
+  #stat_pvalue_manual(data = faith.stats, label = "p.adj") + 
+  labs( x = " ", y= "Shannon diversity") +
+  theme_minimal() +
+  theme(
+    axis.text.x = element_text(size=14),
+    axis.text.y = element_text(size=14),
+    axis.title = element_text(size=16),
+    panel.border = element_rect(color="black", fill=NA)
+  )
+```
+
+## Faith PD plot
+
+Adding in significance.
+
+```{r warning=FALSE,fig.width=3,fig.height=3}
+ggplot(data = alpha, aes( x= description, y= faith_pd)) +
+  geom_boxplot(width = .7, size=1.2)  +
+  scale_y_continuous(expand = c(.1,0)) +
+  labs( x = " ", y= "Faith PD") +
+  theme_minimal() +
+  theme(
+    axis.text.x = element_text(size=14),
+    axis.text.y = element_text(size=14),
+    axis.title = element_text(size=16),
+    panel.border = element_rect(color="black", fill=NA)
+  )
+```
